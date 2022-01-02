@@ -1,0 +1,7 @@
+0- pip install django
+1- django-admin startproject NameOfProject
+2- cd NameOfProject 
+3- python3 manage.py runserver
+4- cd NameOfProject 
+5- python3 manage.py createsuperuser
+6- python3 manage.py migrate
