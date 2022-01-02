@@ -5,3 +5,7 @@
 4- cd NameOfProject 
 5- python3 manage.py createsuperuser
 6- python3 manage.py migrate
+
+userName: inasAlKamachy
+email: inas82phd@gmail.com
+pass: EHym_2011
