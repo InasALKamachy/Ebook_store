@@ -5,6 +5,8 @@
 4- cd NameOfProject 
 5- python3 manage.py createsuperuser
 6- python3 manage.py migrate
+7- python3 manage.py startapp
+
 
 userName: inasAlKamachy
 email: inas82phd@gmail.com
